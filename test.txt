@@ -2,3 +2,4 @@ this is a test!
 the first step will be the history.
 make some modification again.
 create a new branch named 'dev'
+Creating a new branch is quick **AND** simple.
