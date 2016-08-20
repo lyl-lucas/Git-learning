@@ -1,6 +1,8 @@
 this is a test!
+there was a bug，but i fixed it. 
 the first step will be the history.
 make some modification again.
 create a new branch named 'dev'
 Creating a new branch is quick **AND** simple.
 try no-ff mode merge.
+I have done 100% of work
